@@ -1,0 +1,5 @@
+.MovieItem {
+    display: flex;
+    flex-direction: row;
+    font-size: 130;
+}
